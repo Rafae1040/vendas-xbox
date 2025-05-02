@@ -13,6 +13,12 @@ O objetivo deste projeto é criar um **dashboard de vendas interativo e visualme
 - Fórmulas básicas (SOMA, MÉDIA, etc.)
 - Limpeza e organização de dados
 
+
+## Dashboard: 
+
+![Dashboard Vendas](https://github.com/Rafae1040/vendas-xbox/blob/main/Dashboard%20Xbox%20Sale.png)
+
+
 ## 🔍 Análises Realizadas
 
 ### 1. Plano Mais Popular entre os Assinantes
